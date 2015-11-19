@@ -1,0 +1,10 @@
+<?php
+try
+{
+	$bdd = new PDO('mysql:host=sql2.olympe.in;dbname=3am8gwgi', '3am8gwgi', 'aaaaaa64');
+}
+catch(Exception $e)
+{
+        die('Erreur : '.$e->getMessage());
+}
+?>

@@ -1,0 +1,5 @@
+
+-OuvrirPage
+-EcranBleu
+-Activer/Desactiver Gestionnaire des Taches (a modifier pour que ça marche sur tout les pc)
+-Bip
