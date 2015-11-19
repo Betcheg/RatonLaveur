@@ -1,12 +1,14 @@
 # RatonLaveur
 Distant computer control with binary and sql database - Proof of concept - For security purpose ONLY
-Created for academic purpose.
+Created in 2014 for academic purpose.
+Code might not be optimal.
 
 ##How does it work
 
 When compiled create a binary file. Replace variables starting with YOUR_*** to make it work.
 When executed it display a fake Window Error and hide in process.
 It then checks your **mysql** database and search for command to execute every 5 seconds.
+Launch commands by inserting row named accordingly in your database. 
 Exacutable commands are listed below.
 
 ##Commands currently usable :
