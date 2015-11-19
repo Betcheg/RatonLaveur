@@ -21,4 +21,5 @@ Exacutable commands are listed below.
 ##WARNING
 
 This piece of software should NEVER be used against someone's will.
+
 I AM NOT RESPONSIBLE FOR YOUR OWN ACTIONS.
