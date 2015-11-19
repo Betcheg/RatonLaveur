@@ -3,7 +3,7 @@ Distant computer control with binary and sql database - Proof of concept - For s
 Created for academic purpose.
 
 #How does it work
-When compiled create a binary file. Replace variables stating with YOUR_*** to make it work.
+When compiled create a binary file. Replace variables starting with YOUR_*** to make it work.
 When executed it display a fake Window Error and hide in process.
 It then checks your *mysql* database and search for command to execute every 5 seconds.
 Exacutable commands are listed below.
