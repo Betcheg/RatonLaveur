@@ -39,7 +39,7 @@ CREATE TABLE IF NOT EXISTS `enligne` (
 
 INSERT INTO `enligne` (`id`, `nom`, `derniereCo`) VALUES
 (4, 'Dodo', '18:10:34'),
-(6, 'BASTIEN', '18:52:21');
+(6, 'Dudu', '18:52:21');
 
 -- --------------------------------------------------------
 
