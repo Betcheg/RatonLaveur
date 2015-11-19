@@ -1,6 +1,8 @@
 # RatonLaveur
-Distant computer control with binary and sql database - Proof of concept - For security purpose ONLY
+Distant computer control with binary and sql database - Proof of concept - For security purpose ONLY.
+
 Created in 2014 for academic purpose.
+
 Code might not be optimal.
 
 ##How does it work
