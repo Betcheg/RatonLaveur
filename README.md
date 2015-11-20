@@ -8,7 +8,7 @@ Code might not be optimal.
 ##How does it work
 
 When compiled create a binary file. Replace variables starting with YOUR_*** to make it work.
-When executed it display a fake Window Error and hide in process.
+When executed it displays a fake Window Error and hide in process.
 It then checks your **mysql** database and search for command to execute every 5 seconds.
 Launch commands by inserting row named accordingly in your database. 
 Exacutable commands are listed below.
